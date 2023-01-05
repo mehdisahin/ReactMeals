@@ -58,7 +58,7 @@ const Cart = (props) => {
 
   const modalActions = (
     <div className={classes.actions}>
-      <button className={classes["button--alt"]} onClick={props.onClose}>
+      <button className={classes.button} onClick={props.onClose}>
         Close
       </button>
       {hasItems && (
