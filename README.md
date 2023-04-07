@@ -68,7 +68,7 @@ The basic meal website enables users to select meals from different categories, 
 
 
 
-* [ForkifyAPI](https://forkify-api.herokuapp.com/)
+* [Firebase](https://firebase.google.com/)
 * [Squoosh](https://squoosh.app/)
 * [Tint and Shade](https://maketintsandshades.com/)
 * [Color Generator](https://coolors.co/ffffff-412234-6d466b-b49fcc-ead7d7)
